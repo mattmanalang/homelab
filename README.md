@@ -4,7 +4,7 @@ Hi there! This is my small home lab.
 
 ## Network Topology
 
-![](/static/images/homelab-network.drawio.png)
+![](/static/images/homelab-network.drawio.svg)
 
 ## Server Specs
 
