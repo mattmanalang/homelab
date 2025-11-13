@@ -1,6 +1,6 @@
-# My Home Lab
+# Matthew's Home Lab
 
-Hi there! This is my small home lab.
+Hi there! This is my small home lab so far.
 
 ## Network Topology
 
@@ -11,8 +11,8 @@ Hi there! This is my small home lab.
 | Component | Description |
 | --- | --- |
 | Brand | Apple Mac Mini 2018 |
-| Processor | Intel i7-8700B (6 Cores) @ 3.2 GHz |
-| RAM | [OWC 64GB Upgrade Kit](https://eshop.macsales.com/shop/memory/owc/apple-mac-mini/2018) |
+| Processor | Intel i7-8700B (6c/12t) @ 3.2 GHz |
+| RAM | [OWC 64GB (2x32GB) Upgrade Kit](https://eshop.macsales.com/shop/memory/owc/apple-mac-mini/2018) |
 | IP | DHCP |
 | Storage 0 | M.2 1TB |
 | NIC | x1 GbE |
@@ -21,7 +21,7 @@ Hi there! This is my small home lab.
 | Component | Description |
 | --- | --- |
 | Brand | Raspberry Pi 4B |
-| Processor | Broadcom BCM2711, Cortex-A72 (64-bit ARM SOC) @ 1.8GHz |
+| Processor | Broadcom BCM2711, Cortex-A72 ARM SOC (4c/4t) @ 1.8GHz |
 | RAM | 4GB LPDDR4-3200 |
 | IP | 192.168.4.37 |
 | Storage 0 | microSDXC 64GB |
